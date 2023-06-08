@@ -1,0 +1,1 @@
+// We can simplify our above code a little by learning that we don't need to set our function return values to new variables before doing something with them–we can use them directly where we need them.
